@@ -66,9 +66,9 @@ Add this line to your `~/.zshrc` or `~/.bashrc` to make it permanent.
 
 | Tool | Description | Version |
 |------|-------------|---------|
-| [pget](https://github.com/Pynosaur/pget) | Package manager for pynosaur | v0.1.0 |
-| [see](https://github.com/Pynosaur/see) | Advanced file viewer | v0.1.0 |
-| [yday](https://github.com/Pynosaur/yday) | Day of year utility | v0.1.0 |
+| [pget](https://github.com/Pynosaur/pget) | Package manager for pynosaur | v0.2.2 |
+| [see](https://github.com/Pynosaur/see) | Advanced file viewer | v0.1.2 |
+| [yday](https://github.com/Pynosaur/yday) | Day of year utility | v0.1.4 |
 
 ## Building Your Own Tool
 
